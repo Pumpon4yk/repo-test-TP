@@ -1,7 +1,6 @@
 import { createGlobalStyle } from 'styled-components';
 import 'modern-normalize';
 
-import '../components/CalendarToolbar/PeriodPaginator/style.css'
 
 export const GlobalStyle = createGlobalStyle`
   body {
