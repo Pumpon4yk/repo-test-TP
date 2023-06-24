@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/repo-test-TP/static/css/main.9e4468c2.css",
-    "main.js": "/repo-test-TP/static/js/main.7fb265e0.js",
+    "main.css": "/repo-test-TP/static/css/main.cd2e038f.css",
+    "main.js": "/repo-test-TP/static/js/main.1836fe0e.js",
     "static/js/139.c6c88baf.chunk.js": "/repo-test-TP/static/js/139.c6c88baf.chunk.js",
     "static/js/955.60c99438.chunk.js": "/repo-test-TP/static/js/955.60c99438.chunk.js",
     "static/js/105.6c58790f.chunk.js": "/repo-test-TP/static/js/105.6c58790f.chunk.js",
-    "static/js/581.ac8ff6a9.chunk.js": "/repo-test-TP/static/js/581.ac8ff6a9.chunk.js",
+    "static/css/314.fc4ed139.chunk.css": "/repo-test-TP/static/css/314.fc4ed139.chunk.css",
+    "static/js/314.40407de9.chunk.js": "/repo-test-TP/static/js/314.40407de9.chunk.js",
     "static/js/68.9c67261a.chunk.js": "/repo-test-TP/static/js/68.9c67261a.chunk.js",
     "static/media/calendar-tablet@2x.png": "/repo-test-TP/static/media/calendar-tablet@2x.acfbcb929d23a0b96cba.png",
     "static/media/calendar-desctop@2x.png": "/repo-test-TP/static/media/calendar-desctop@2x.b68de46ebd2f9632491d.png",
@@ -27,16 +28,17 @@
     "static/media/navigation-mobile.png": "/repo-test-TP/static/media/navigation-mobile.068c17cb1f1bd1a47736.png",
     "static/media/todo_board-mobile.png": "/repo-test-TP/static/media/todo_board-mobile.7396746ed2977c3c1c12.png",
     "index.html": "/repo-test-TP/index.html",
-    "main.9e4468c2.css.map": "/repo-test-TP/static/css/main.9e4468c2.css.map",
-    "main.7fb265e0.js.map": "/repo-test-TP/static/js/main.7fb265e0.js.map",
+    "main.cd2e038f.css.map": "/repo-test-TP/static/css/main.cd2e038f.css.map",
+    "main.1836fe0e.js.map": "/repo-test-TP/static/js/main.1836fe0e.js.map",
     "139.c6c88baf.chunk.js.map": "/repo-test-TP/static/js/139.c6c88baf.chunk.js.map",
     "955.60c99438.chunk.js.map": "/repo-test-TP/static/js/955.60c99438.chunk.js.map",
     "105.6c58790f.chunk.js.map": "/repo-test-TP/static/js/105.6c58790f.chunk.js.map",
-    "581.ac8ff6a9.chunk.js.map": "/repo-test-TP/static/js/581.ac8ff6a9.chunk.js.map",
+    "314.fc4ed139.chunk.css.map": "/repo-test-TP/static/css/314.fc4ed139.chunk.css.map",
+    "314.40407de9.chunk.js.map": "/repo-test-TP/static/js/314.40407de9.chunk.js.map",
     "68.9c67261a.chunk.js.map": "/repo-test-TP/static/js/68.9c67261a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e4468c2.css",
-    "static/js/main.7fb265e0.js"
+    "static/css/main.cd2e038f.css",
+    "static/js/main.1836fe0e.js"
   ]
 }
