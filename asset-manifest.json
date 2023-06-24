@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/repo-test-TP/static/css/main.9e4468c2.css",
+    "main.js": "/repo-test-TP/static/js/main.7fb265e0.js",
+    "static/js/139.c6c88baf.chunk.js": "/repo-test-TP/static/js/139.c6c88baf.chunk.js",
+    "static/js/955.60c99438.chunk.js": "/repo-test-TP/static/js/955.60c99438.chunk.js",
+    "static/js/105.6c58790f.chunk.js": "/repo-test-TP/static/js/105.6c58790f.chunk.js",
+    "static/js/581.ac8ff6a9.chunk.js": "/repo-test-TP/static/js/581.ac8ff6a9.chunk.js",
+    "static/js/68.9c67261a.chunk.js": "/repo-test-TP/static/js/68.9c67261a.chunk.js",
+    "static/media/calendar-tablet@2x.png": "/repo-test-TP/static/media/calendar-tablet@2x.acfbcb929d23a0b96cba.png",
+    "static/media/calendar-desctop@2x.png": "/repo-test-TP/static/media/calendar-desctop@2x.b68de46ebd2f9632491d.png",
+    "static/media/navigation-tablet@2x.png": "/repo-test-TP/static/media/navigation-tablet@2x.abb30274b27aecd72438.png",
+    "static/media/navigation-desctop@2x.png": "/repo-test-TP/static/media/navigation-desctop@2x.1e6a2fb946776d27a695.png",
+    "static/media/calendar-mobile@2x.png": "/repo-test-TP/static/media/calendar-mobile@2x.7d234baa48af542fd485.png",
+    "static/media/goose.svg": "/repo-test-TP/static/media/goose.73ae77f4fff8c3d521724c2225b06ff5.svg",
+    "static/media/calendar-tablet.png": "/repo-test-TP/static/media/calendar-tablet.87e78cfc010676d4b05a.png",
+    "static/media/navigation-mobile@2x.png": "/repo-test-TP/static/media/navigation-mobile@2x.d7953b02ca723a6fd435.png",
+    "static/media/todo_board-tablet@2x.png": "/repo-test-TP/static/media/todo_board-tablet@2x.6825593fd9d4768d7bf7.png",
+    "static/media/calendar-desctop.png": "/repo-test-TP/static/media/calendar-desctop.9118cd7dec2749df83d3.png",
+    "static/media/todo_board-desctop@2x.png": "/repo-test-TP/static/media/todo_board-desctop@2x.8590a0bd15e87b1df53c.png",
+    "static/media/navigation-tablet.png": "/repo-test-TP/static/media/navigation-tablet.22afefa08626af0609dc.png",
+    "static/media/navigation-desctop.png": "/repo-test-TP/static/media/navigation-desctop.32872a32fa9646676f1b.png",
+    "static/media/calendar-mobile.png": "/repo-test-TP/static/media/calendar-mobile.add70274a75931e3c007.png",
+    "static/media/todo_board-mobile@2x.png": "/repo-test-TP/static/media/todo_board-mobile@2x.2837cb55bb0b979d7651.png",
+    "static/media/todo_board-tablet.png": "/repo-test-TP/static/media/todo_board-tablet.445e1bdc225a599eaa3a.png",
+    "static/media/todo_board-desctop.png": "/repo-test-TP/static/media/todo_board-desctop.54d4c84cb2cf3ead7145.png",
+    "static/media/navigation-mobile.png": "/repo-test-TP/static/media/navigation-mobile.068c17cb1f1bd1a47736.png",
+    "static/media/todo_board-mobile.png": "/repo-test-TP/static/media/todo_board-mobile.7396746ed2977c3c1c12.png",
+    "index.html": "/repo-test-TP/index.html",
+    "main.9e4468c2.css.map": "/repo-test-TP/static/css/main.9e4468c2.css.map",
+    "main.7fb265e0.js.map": "/repo-test-TP/static/js/main.7fb265e0.js.map",
+    "139.c6c88baf.chunk.js.map": "/repo-test-TP/static/js/139.c6c88baf.chunk.js.map",
+    "955.60c99438.chunk.js.map": "/repo-test-TP/static/js/955.60c99438.chunk.js.map",
+    "105.6c58790f.chunk.js.map": "/repo-test-TP/static/js/105.6c58790f.chunk.js.map",
+    "581.ac8ff6a9.chunk.js.map": "/repo-test-TP/static/js/581.ac8ff6a9.chunk.js.map",
+    "68.9c67261a.chunk.js.map": "/repo-test-TP/static/js/68.9c67261a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e4468c2.css",
+    "static/js/main.7fb265e0.js"
+  ]
+}
