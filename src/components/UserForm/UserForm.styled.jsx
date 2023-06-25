@@ -337,7 +337,7 @@ export const DatePickerWrapper = styled.div`
 
 
   .react-datepicker__day--weekend {
-    color: rgba(255, 255, 255, 1));
+    color: rgba(255, 255, 255, 1);
     opacity: 40%;
   }
 
